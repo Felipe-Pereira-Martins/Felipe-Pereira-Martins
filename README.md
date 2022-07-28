@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Felipe-Pereira-Martins" height="100" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=Felipe-Pereira-Martins" height="100" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Felipe-Pereira-Martins" height="120" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=Felipe-Pereira-Martins" height="120" alt="languages graph"/>
 </div>
 
 ###  <h2 align="left">💬 Hello, my name is Felipe Pereira Martins, my age is 20 years old, I'm Brazilian!!</h2>
