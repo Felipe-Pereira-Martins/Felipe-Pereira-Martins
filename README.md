@@ -1,12 +1,10 @@
-## Olá! Sejam bem vindos ao meu perfil!👋
+### Olá! Sejam bem vindos ao meu perfil!👋
 <div align="center">
-  <a href="https://github.com/Felipe-Pereira-Martins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Pereira-Martins&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="150" alt="stats graph"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Pereira-Martins&layout=compact&langs_count=7&theme=dark" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Felipe-Pereira-Martins" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=Felipe-Pereira-Martins" height="150" alt="languages graph"  />
 </div>
 
-
-## 💬 Olá, meu nome é Felipe Pereira Martins, minha idade e de 20 anos!!
+### 💬 Hello, my name is Felipe Pereira Martins, my age is 20 years old, I'm Brazilian!!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,7 +12,8 @@
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
  
-  ## Redes Sociais
+ 
+  ### Redes Sociais
  
 <div> 
   <a href="https://instagram.com/felip.mzin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="35"></a>
