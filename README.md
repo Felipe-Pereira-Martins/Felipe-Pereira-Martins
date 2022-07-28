@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=Felipe-Pereira-Martins" height="150" alt="languages graph"  />
 </div>
 
-### 💬 Hello, my name is Felipe Pereira Martins, my age is 20 years old, I'm Brazilian!!
+###  <h2 align="center">💬 Hello, my name is Felipe Pereira Martins, my age is 20 years old, I'm Brazilian!!</h2>
 
 <div align="center" ><br>
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
