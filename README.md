@@ -1,4 +1,4 @@
-### Olá! Sejam bem vindos ao meu perfil!👋
+### <h2 align="center"> Hi! Welcome to my profile!👋</h2>
 
 ###
 
@@ -17,7 +17,6 @@
   
   ###
    <h2 align="center"> Redes Sociais </h2>
-  </div>
  
 <div align="center"> 
   <a href="https://instagram.com/felip.mzin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="35"></a>
