@@ -1,53 +1,59 @@
-<h2 align="center">👋 Hi! Welcome to my profile!</h2>
+<h1 align="center">Felipe Pereira Martins</h1>
+
+<p align="center">
+  Web Developer | PHP & Laravel Specialist | Front-end Enthusiast
+</p>
+
+---
+
+### Sobre mim
+
+Sou desenvolvedor web com 23 anos, residente no Brasil, focado em construir aplicações robustas e escaláveis utilizando PHP, Laravel, JavaScript, HTML e CSS. Atualmente, tenho direcionado meus esforços para me especializar no ecossistema Laravel e dominar o desenvolvimento full stack com foco em performance, organização e boas práticas.
+
+---
+
+### Projeto em Andamento – Larafood (Laravel)
+
+Atualmente estou desenvolvendo o sistema **Larafood**, um projeto completo com Laravel, que está sendo documentado passo a passo no Notion.  
+Este projeto tem como foco a aplicação prática de conceitos avançados da framework, seguindo arquitetura limpa e padrões de mercado.
+
+- ✔️ Status: Em desenvolvimento  
+- 🛠️ Stack: Laravel, PHP, Blade, MySQL, Bootstrap  
+- 🗂️ Documentação: 100% registrada no Notion  
+- 🎯 Objetivo: Transformar em um produto SaaS viável
+
+---
+
+### Tecnologias
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Felipe-Pereira-Martins" height="120" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=Felipe-Pereira-Martins" height="120" alt="languages graph"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 </div>
 
 ---
 
-### 💬 About Me
-
-- 👨‍💻 My name is **Felipe Pereira Martins**, I'm 31 years old and from 🇧🇷 Brazil.  
-- 💻 Passionate about web development, focused on **PHP, Laravel, JavaScript, HTML & CSS**.  
-- 📚 Currently building a solid foundation through structured study and professional projects.  
-- 🧠 Always learning and documenting everything to grow as a full stack developer.
-
----
-
-### 🚀 Ongoing Project: Larafood
-
-> I'm currently developing the **Larafood** system using Laravel.  
-> ✅ All steps are being documented on Notion for study and future reference.  
-> 📌 Focused on writing clean code, applying good practices, and understanding Laravel in depth.
-
-🗂️ *Status:* `In Development`  
-📒 *Documentation:* `100% step-by-step in Notion`  
-💡 *Goal:* Master Laravel and turn the system into a real business (SaaS style)
-
----
-
-### 🛠️ Technologies
+### Estatísticas GitHub
 
 <div align="center">
-  <img align="center" alt="Felipe-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Felipe-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Felipe-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Felipe-PHP" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Felipe-Laravel" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="Felipe-MySQL" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img src="https://github-readme-stats.vercel.app/api?username=Felipe-Pereira-Martins&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Pereira-Martins&layout=compact&langs_count=6&theme=dark&hide_border=true" height="140" />
 </div>
 
 ---
 
-### 🌐 Social Links
+### Contato
 
-<div align="center"> 
-  <a href = "mailto:martinsfelipe2013@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="35"></a>
-  <a href="https://www.linkedin.com/in/felipe-pereira-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="35"></a>
+<div align="center">
+  <a href="mailto:martinsfelipe2013@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-333?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-pereira-martins/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
 </div>
 
----
-
-### 📌 Let’s Build Something Great!
