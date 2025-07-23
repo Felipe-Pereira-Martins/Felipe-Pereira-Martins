@@ -35,16 +35,6 @@ Este projeto tem como foco a aplicação prática de conceitos avançados da fra
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 </div>
 
----
-
-### Estatísticas GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felipe-Pereira-Martins&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Pereira-Martins&layout=compact&langs_count=6&theme=dark&hide_border=true" height="140" />
-</div>
-
----
 
 ### Contato
 
