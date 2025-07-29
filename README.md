@@ -1,7 +1,7 @@
 <h1 align="center">Felipe Pereira Martins</h1>
 
 <p align="center">
-  Desenvolvedor Web | Especialista em PHP & Laravel | Foco em Backend e Painéis Administrativos
+  Desenvolvedor Web | PHP & Laravel | Foco em Backend e Painéis Administrativos
 </p>
 
 ---
