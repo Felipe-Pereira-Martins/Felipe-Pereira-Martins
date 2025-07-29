@@ -1,42 +1,90 @@
 <h1 align="center">Felipe Pereira Martins</h1>
 
 <p align="center">
-  Web Developer | PHP & Laravel Specialist | Front-end Enthusiast
+  Desenvolvedor Web | Especialista em PHP & Laravel | Foco em Backend e Painéis Administrativos
 </p>
 
 ---
 
-### Sobre mim
+### Sobre Mim
 
-Sou desenvolvedor web com 23 anos, residente no Brasil, focado em construir aplicações robustas e escaláveis utilizando PHP, Laravel, JavaScript, HTML e CSS. Atualmente, tenho direcionado meus esforços para me especializar no ecossistema Laravel e dominar o desenvolvimento full stack com foco em performance, organização e boas práticas.
-
----
-
-### Projeto em Andamento – Larafood (Laravel)
-
-Atualmente estou desenvolvendo o sistema **Larafood**, um projeto completo com Laravel, que está sendo documentado passo a passo no Notion.  
-Este projeto tem como foco a aplicação prática de conceitos avançados da framework, seguindo arquitetura limpa e padrões de mercado.
-
-- ✔️ Status: Em desenvolvimento  
-- 🛠️ Stack: Laravel, PHP, Blade, MySQL, Bootstrap  
-- 🗂️ Documentação: 100% registrada no Notion  
-- 🎯 Objetivo: Transformar em um produto SaaS viável
+Sou desenvolvedor web brasileiro, com 23 anos, apaixonado por criar sistemas escaláveis, seguros e documentados utilizando **PHP**, **Laravel**, **JavaScript**, **HTML** e **CSS**.
+Atualmente, concentro meus esforços em projetos próprios de e-commerce, painéis administrativos e SaaS, buscando sempre entregar código limpo, organizado e de alta performance.
 
 ---
 
-### Tecnologias
+## 🚧 Projetos em Andamento
+
+### Luz de Esther (E-commerce/Admin – PHP)
+
+> **Status:** Em desenvolvimento
+> **Stack:** PHP, Bootstrap 4, MySQL, jQuery
+
+**Descrição:**
+E-commerce autoral com painel administrativo próprio, focado em moda feminina.
+O projeto é totalmente construído do zero com PHP procedural, Bootstrap 4 e jQuery.
+
+**Funcionalidades já disponíveis:**
+
+* Cadastro de **Categorias**
+* Cadastro de **Subcategorias**
+* Cadastro e listagem de **Produtos** (básico)
+* Upload de imagens em categorias/produtos (em progresso)
+* Painel admin responsivo e otimizado
+* Cadastro com feedback de validação em tempo real
+
+**Próximos passos:**
+
+* CRUD completo para todos os módulos
+* Otimizações de UI/UX para mobile
+* Integração com gateways de pagamento (futuro)
+* Implementação de sistema de pedidos
+
+---
+
+### Larafood (Sistema SaaS – Laravel)
+
+> **Status:** Em desenvolvimento
+> **Stack:** Laravel, PHP, Blade, MySQL, Bootstrap
+
+**Descrição:**
+Sistema completo para gestão de planos alimentares, restaurantes e usuários, baseado em arquitetura SaaS (Software como Serviço), seguindo padrões avançados do ecossistema Laravel.
+
+**Destaques do projeto:**
+
+* Projeto desenvolvido passo a passo, com **documentação detalhada** no Notion
+* Aplicação de conceitos avançados de Laravel: migrations, seeders, controllers, policies, e arquitetura limpa
+* Modularização e escalabilidade para uso comercial (produto SaaS no futuro)
+
+**Funcionalidades em desenvolvimento:**
+
+* CRUD de planos alimentares e restaurantes
+* Gerenciamento de usuários e permissões
+* Interface administrativa limpa e responsiva
+
+---
+
+## 🛠️ Tecnologias Utilizadas
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" alt="PHP" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" height="40" alt="Bootstrap" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 </div>
 
+---
 
-### Contato
+## 📑 Documentação
+
+Ambos os projetos são totalmente documentados no Notion, incluindo decisões técnicas, modelagem, e histórico de desenvolvimento.
+
+---
+
+## 👨‍💻 Contato
 
 <div align="center">
   <a href="mailto:martinsfelipe2013@gmail.com">
@@ -46,4 +94,9 @@ Este projeto tem como foco a aplicação prática de conceitos avançados da fra
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
 </div>
+
+---
+
+#### *Acompanhe meus projetos, sugestões e colaborações são sempre bem-vindas!*
+
 
