@@ -68,7 +68,7 @@ Sistema completo para gestão de planos alimentares, restaurantes e usuários, b
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" height="40" alt="Bootstrap" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -86,7 +86,7 @@ Ambos os projetos são totalmente documentados no Notion, incluindo decisões t�
 
 ## 👨‍💻 Contato
 
-<div align="center">
+<div align="left">
   <a href="mailto:martinsfelipe2013@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-333?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
