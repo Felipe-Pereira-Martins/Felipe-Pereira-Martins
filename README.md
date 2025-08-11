@@ -8,59 +8,34 @@
 
 ### Sobre Mim
 
-Sou desenvolvedor web brasileiro, com 23 anos, apaixonado por criar sistemas escaláveis, seguros e documentados utilizando **PHP**, **Laravel**, **JavaScript**, **HTML** e **CSS**.
-Atualmente, concentro meus esforços em projetos próprios de e-commerce, painéis administrativos e SaaS, buscando sempre entregar código limpo, organizado e de alta performance.
+Sou desenvolvedor web brasileiro, com 23 anos, apaixonado por criar sistemas escaláveis, seguros e bem documentados utilizando **PHP**, **Laravel**, **JavaScript**, **HTML** e **CSS**.  
+No momento, estou concentrado no meu projeto autoral **Luz de Esther**, evoluindo arquitetura, documentação e qualidade de código.
 
 ---
 
-## 🚧 Projetos em Andamento
+## 🚧 Projeto em Andamento
 
 ### Luz de Esther (E-commerce/Admin – PHP)
 
-> **Status:** Em desenvolvimento
+> **Status:** Em desenvolvimento  
 > **Stack:** PHP, Bootstrap 4, MySQL, jQuery
 
-**Descrição:**
-E-commerce autoral com painel administrativo próprio, focado em moda feminina.
-O projeto é totalmente construído do zero com PHP procedural, Bootstrap 4 e jQuery.
+**Descrição:**  
+E-commerce autoral com painel administrativo próprio, focado em moda feminina. Projeto construído do zero em **PHP procedural** com **Bootstrap 4** e **jQuery**, priorizando organização de pastas, validações e base sólida para futuras integrações.
 
 **Funcionalidades já disponíveis:**
-
-* Cadastro de **Categorias**
-* Cadastro de **Subcategorias**
-* Cadastro e listagem de **Produtos** (básico)
-* Upload de imagens em categorias/produtos (em progresso)
-* Painel admin responsivo e otimizado
-* Cadastro com feedback de validação em tempo real
+- Cadastro de **Categorias**
+- Cadastro de **Subcategorias**
+- Cadastro e **listagem** de **Produtos** (básico)
+- **Upload de imagens** em categorias/produtos (em progresso)
+- Painel admin **responsivo** e otimizado
+- Cadastro com **validação** e feedback em tempo real
 
 **Próximos passos:**
-
-* CRUD completo para todos os módulos
-* Otimizações de UI/UX para mobile
-* Integração com gateways de pagamento (futuro)
-* Implementação de sistema de pedidos
-
----
-
-### Larafood (Sistema SaaS – Laravel)
-
-> **Status:** Em desenvolvimento
-> **Stack:** Laravel, PHP, Blade, MySQL, Bootstrap
-
-**Descrição:**
-Sistema completo para gestão de planos alimentares, restaurantes e usuários, baseado em arquitetura SaaS (Software como Serviço), seguindo padrões avançados do ecossistema Laravel.
-
-**Destaques do projeto:**
-
-* Projeto desenvolvido passo a passo, com **documentação detalhada** no Notion
-* Aplicação de conceitos avançados de Laravel: migrations, seeders, controllers, policies, e arquitetura limpa
-* Modularização e escalabilidade para uso comercial (produto SaaS no futuro)
-
-**Funcionalidades em desenvolvimento:**
-
-* CRUD de planos alimentares e restaurantes
-* Gerenciamento de usuários e permissões
-* Interface administrativa limpa e responsiva
+- CRUD **completo** para todos os módulos
+- Otimizações de **UI/UX** para mobile
+- Integração com **gateways de pagamento** (futuro)
+- Implementação do **sistema de pedidos**
 
 ---
 
@@ -80,7 +55,7 @@ Sistema completo para gestão de planos alimentares, restaurantes e usuários, b
 
 ## 📑 Documentação
 
-Ambos os projetos são totalmente documentados no Notion, incluindo decisões técnicas, modelagem, e histórico de desenvolvimento.
+O **Luz de Esther** está sendo documentado no Notion (decisões técnicas, modelagem e histórico de desenvolvimento).
 
 ---
 
@@ -97,6 +72,5 @@ Ambos os projetos são totalmente documentados no Notion, incluindo decisões t�
 
 ---
 
-#### *Acompanhe meus projetos, sugestões e colaborações são sempre bem-vindas!*
-
+#### *Acompanhe meu projeto! Sugestões e colaborações são sempre bem-vindas.*
 
