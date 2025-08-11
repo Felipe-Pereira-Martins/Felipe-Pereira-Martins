@@ -73,4 +73,3 @@ O **Luz de Esther** está sendo documentado no Notion (decisões técnicas, mode
 ---
 
 #### *Acompanhe meu projeto! Sugestões e colaborações são sempre bem-vindas.*
-
