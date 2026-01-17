@@ -34,7 +34,7 @@ Atuo principalmente com **PHP** e **MySQL**, desenvolvendo e mantendo aplicaçõ
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,jquery,html,css,bootstrap,git,vscode&perline=9" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,js,jquery,html,css,bootstrap,git,vscode&perline=9" />
   </a>
 </div>
 
