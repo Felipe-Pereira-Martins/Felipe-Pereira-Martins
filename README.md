@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Felipe Pereira Martins</h1>
-  <h3>Desenvolvedor Web | PHP | Backend & Sistemas Web</h3>
+  <h3>Desenvolvedor Web | PHP | React </h3>
 
   <p>
     <a href="https://www.felipepereiramartins.com.br/" target="_blank">
